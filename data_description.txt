@@ -280,7 +280,7 @@ BsmtQual: Evaluates the height of the basement
        Gd	Good (90-99 inches)
        TA	Typical (80-89 inches)
        Fa	Fair (70-79 inches)
-       Po	Poor (<70 inches
+       Po	Poor (<70 inches)
        NA	No Basement
 		
 BsmtCond: Evaluates the general condition of the basement
@@ -370,13 +370,13 @@ BsmtFullBath: Basement full bathrooms
 
 BsmtHalfBath: Basement half bathrooms
 
-FullBath: Full bathrooms above grade
+FullBath: Full bathrooms above grade - Remove
 
-HalfBath: Half baths above grade
+HalfBath: Half baths above grade - Remove
 
-Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
+Bedroom: Bedrooms above grade (does NOT include basement bedrooms) - Remove
 
-Kitchen: Kitchens above grade
+Kitchen: Kitchens above grade 
 
 KitchenQual: Kitchen quality
 
